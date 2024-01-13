@@ -1,0 +1,14 @@
+C:\C#\Projetos02\Projeto32\bin\Debug\net8.0\Projeto32.exe
+C:\C#\Projetos02\Projeto32\bin\Debug\net8.0\Projeto32.deps.json
+C:\C#\Projetos02\Projeto32\bin\Debug\net8.0\Projeto32.runtimeconfig.json
+C:\C#\Projetos02\Projeto32\bin\Debug\net8.0\Projeto32.dll
+C:\C#\Projetos02\Projeto32\bin\Debug\net8.0\Projeto32.pdb
+C:\C#\Projetos02\Projeto32\obj\Debug\net8.0\Projeto32.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Projetos02\Projeto32\obj\Debug\net8.0\Projeto32.AssemblyInfoInputs.cache
+C:\C#\Projetos02\Projeto32\obj\Debug\net8.0\Projeto32.AssemblyInfo.cs
+C:\C#\Projetos02\Projeto32\obj\Debug\net8.0\Projeto32.csproj.CoreCompileInputs.cache
+C:\C#\Projetos02\Projeto32\obj\Debug\net8.0\Projeto32.dll
+C:\C#\Projetos02\Projeto32\obj\Debug\net8.0\refint\Projeto32.dll
+C:\C#\Projetos02\Projeto32\obj\Debug\net8.0\Projeto32.pdb
+C:\C#\Projetos02\Projeto32\obj\Debug\net8.0\Projeto32.genruntimeconfig.cache
+C:\C#\Projetos02\Projeto32\obj\Debug\net8.0\ref\Projeto32.dll
